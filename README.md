@@ -71,3 +71,16 @@ This section provides a summary of the datasets in this repository.
 * Human Activity Recognition Using Smartphones
 * Indoor Movement Prediction
 * Yearly Longley Economic Employment
+
+
+Just for reference and I hope you can star⭐ me.
+  
+## Contact me
+  
+  Gmail: murindanyi@gmail.com
+  
+  Linkin: [MyLinkin](https://www.linkedin.com/in/murindanyi-sudi-aa8793150/)
+  
+
+
+
