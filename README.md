@@ -73,7 +73,7 @@ This section provides a summary of the datasets in this repository.
 * Yearly Longley Economic Employment
 
 
-Just for reference and I hope you can star⭐ me.
+Just for reference and I hope you can star⭐ me
   
 ## Contact me
   
