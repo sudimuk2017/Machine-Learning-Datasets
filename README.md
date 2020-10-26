@@ -5,7 +5,6 @@ This repository contains a copy of machine learning datasets used in tutorials o
 
 
 
-
 This repository was created to ensure that the datasets used in tutorials remain available and are not dependent upon unreliable third parties.
 
 
