@@ -7,7 +7,6 @@ This repository was created to ensure that the datasets used in tutorials remain
 
 All regression and classification problem CSV files have no header line, no whitespace between columns, the target is the last column, and missing values are marked with a question mark character ('?').
 
-
 In many cases, tutorials will link directly to the raw dataset URL, therefore dataset filenames should not be changed once added to the repository.
 
 
