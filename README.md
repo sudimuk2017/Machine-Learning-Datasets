@@ -1,7 +1,7 @@
 Machine Learning Datasets
 =========================
 
-chgc hgvcuhvuc hvu hvu
+chgc hgvcuhvuc hvuhvu
 
 This repository contains a copy of machine learning datasets used in tutorials on MachineLearningMastery.com.
 
