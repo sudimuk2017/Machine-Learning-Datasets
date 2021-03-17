@@ -1,5 +1,7 @@
 # Machine Learning Datasets
-****************************
+*****************************
+
+*** Just for reference and I hope you can star⭐ me ***
 
 This repository contains a copy of machine learning datasets used in tutorials on MachineLearningMastery.com.
 
@@ -72,8 +74,6 @@ This section provides a summary of the datasets in this repository.
 * Indoor Movement Prediction
 * Yearly Longley Economic Employment
 
-
-Just for reference and I hope you can star⭐ me
   
 ## Contact me
   
